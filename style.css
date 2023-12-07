@@ -1,0 +1,64 @@
+.sect1
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+.sect2 a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 3px blac solid;
+    background-color: bisque;
+    padding: 6px;
+    border-radius: 40%;
+}
+.entiresection
+{
+    color: white;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0);
+}
+.logo
+{
+    display: flex;
+    align-items: center;
+}
+.con
+{
+    border: 3px blueviolet solid;
+    align-items: center;
+    color: white;
+    padding: 10px;
+    background-color: blueviolet;
+
+}
+.con2
+{
+    background-color: violet;
+    padding: 10px;
+}
+.con3
+{
+    background-color: skyblue;
+    padding: 10px;
+    color: red;
+}
+.center 
+{
+    width: max-content;
+    margin: auto;
+}
+body
+{
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(fash.webp);
+}
+html
+{
+    height: 100%;
+}
